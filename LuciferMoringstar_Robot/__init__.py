@@ -13,7 +13,7 @@ from .Channel import (
 HELP = """
 Basic Commads
 
-/start :- check am Alive
+/start :- check if am alive or dead!
 
 Bot Owner Only
 /broadcast Replay Any Message or Media
@@ -27,13 +27,13 @@ Bot Owner Only
 
 [➡️How To Add Old Files For database](https://youtu.be/mtu5hgW-l_o)
 
-@Mo_Tech_YT
+@Unknownground57
 """
 
 ABOUT = """
-➥ Name :  Auto Filter With IMDB
+➥ Name :  Draz
     
-➥ Creator : [Muhammed RK](t.me/Mrk_YT)
+➥ Creator : [aze](t.me/unknownground57)
 
 ➥ Language : Python3
 
