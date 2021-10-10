@@ -112,7 +112,7 @@ async def start(bot, message):
             )
         )
     else:
-        await message.reply_text(
+        await cmd.reply_text(
             START_MSG,
             parse_mode="Markdown",
             disable_web_page_preview=True,
