@@ -13,7 +13,7 @@ from .Channel import (
 HELP = """
 Basic Commads
 
-/start :- check am Alive
+/start :- check if am Alive or Dead!
 
 Bot Owner Only
 /broadcast Replay Any Message or Media
@@ -25,19 +25,19 @@ Bot Owner Only
 /logger  Get Logs
 /delete Delete File From Database
 
-[➡️How To Add Old Files For database](https://youtu.be/mtu5hgW-l_o)
+[➡️ 🎬 Join Our Group 🎬](https://t.me/unknownground57)
 
-@Mo_Tech_YT
+@Unknownground57
 """
 
 ABOUT = """
-➥ Name :  Auto Filter With IMDB
+➥ Name :  Zia
     
-➥ Creator : [Muhammed RK](t.me/Mrk_YT)
+➥ Creator : [ aze ](t.me/iam_aze)
 
 ➥ Language : Python3
 
 ➥ Library : Pyrogram Asyncio 1.13.0
 
-➥ Source Code : [Click Me](https://github.com/PR0FESS0R-99/LuciferMoringstar_Robot)
+➥ Group : [☆U̷n̷d̷e̷r̷g̷r̷o̷u̷n̷d̷☆](https://t.me/unknownground57)
 """
