@@ -335,8 +335,8 @@ async def delete(bot, message):
 async def bot_info(bot, message):
     buttons = [
         [
-            InlineKeyboardButton('More Botz', url='https://t.me/MT_Botz'),
-            InlineKeyboardButton('Video', url=f'{TUTORIAL}')
+            InlineKeyboardButton('🎬 Group 🎬', url='https://t.me/unknownground57'),
+            InlineKeyboardButton('🔰 Channel 🔰', url='https://t.me/unknownground00')
         ]
         ]
     await message.reply(text=f"{ABOUT}", reply_markup=InlineKeyboardMarkup(buttons), disable_web_page_preview=True)
