@@ -115,8 +115,6 @@ async def start(bot, message):
         await message.reply_photo(
             photo="https://telegra.ph/file/189cc57f5fcc1fbf3960b.jpg",
             caption=START_MSG,
-            parse_mode="Markdown",
-            disable_web_page_preview=True,
             reply_markup=InlineKeyboardMarkup(
                 [[
                 InlineKeyboardButton("🔍 Search Here", switch_inline_query_current_chat=''),
